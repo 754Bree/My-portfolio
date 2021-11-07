@@ -1,0 +1,2 @@
+# My-portfolio
+## Hello! My name is Briana and I am a software developer.This is my portfolio and am glad that you are reading it. I made this for work related purposes and nothing more. I created this portfolio so that everyone would get to know about me and also find my contact details in an event they need assistance pertainig to software or rather computing languages i.e JavaScrpt,HTML,CSS etc.
