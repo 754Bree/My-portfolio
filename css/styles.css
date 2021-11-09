@@ -29,3 +29,8 @@ nav>ul>li {
 .Contact .Copyright {
   float: right;
 }
+.card {
+  background-color: white;
+  font-size: bold;
+  font-family: sans-serif;
+}
