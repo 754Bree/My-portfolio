@@ -1,5 +1,6 @@
 body {
   background-color: #ff9933;
+  color: #181818	;
 }
 header {
   display: flex;
@@ -31,6 +32,7 @@ header {
     padding-left: 1rem;
     position:relative;
     color: #ff8533 ;
+  
 }
 .card-inner:before {
     width: 0;
@@ -64,11 +66,11 @@ header {
   position: relative; /* Position them relative to the browser window */
   left: -80px; /* Position them outside of the screen */
   transition: 0.3s; /* Add transition on hover */
-  padding: 25px; /* 25px padding */
-  width: 100px; /* Set a specific width */
+  padding: 35px; /* 35px padding */
+  width: rgba(255, 0, 0, 0.5);px; /* Set a specific width */
   text-decoration: underline;  */; /* underline */
-  font-size: 20px; /* Increase font size */
-  color: Black; /* black text color */
+  font-size: 30px; /* Increase font size */
+  color: #303030	; /* grey text color */
   border-radius: 0 5px 5px 0; /* Rounded corners on the top right and bottom right side */
 }
 
@@ -76,14 +78,11 @@ header {
   left: auto;; /* On mouse-over, make the color change */
 }
 /* The about link: 20px from the top with a green background */
-#about {
+#About {
   top: 20px;
   background-color: #ffa366;
 }
 
-#blog {
-  top: 80px;
-  background-color: #2196F3; /* Blue */
 }
 
 #projects {
@@ -94,4 +93,9 @@ header {
 #contact {
   top: 200px;
   background-color: #555 /* Light Black */
+}
+.Skills {
+  text-align: inherit;
+  border-radius: 2px;
+  border: 15px;
 }
